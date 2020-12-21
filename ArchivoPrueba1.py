@@ -1,6 +1,5 @@
 print("Hello Work!")
-print("Hello Work!")
-print("Prueba Work!")
+# mmm entiendo no hay problema no se pierde nada
 
 
 
